@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MenuProject</string>
+<!--    For calling-->
+    <string name="btn_call">Phone</string>
+    <string name="call_number">9769838703</string>
+<!--For messaging-->
+    <string name="btn_sms">SMS</string>
+    <string name="textnumber">9769838703</string>
+    <string name="msgbody">Rucha Madan</string>
+<!--    Place where I was born-->
+    <string name="birthplace">My Birth Place</string>
+    <string name="city">Mumbai, India</string>
+<!--    Open a website-->
+    <string name="btn_website">openwebsite</string>
+    <string name="weburl">https://portal5.pace.edu/</string>
+<!--    Share-->
+    <string name="btn_share">share</string>
+    <string name="share_text_subject">Share the love</string>
+    <string name="msg_heading">Share the love</string>
+    <string name="msg_body">Just sharing the love</string>
+<!--    Activity-->
+    <string name="txt_activity">Activity</string>
+    <string name="name">Hello Rucha Madan</string>
+    <string name="hello">Hello</string>
+    <string name="new_activity">New Activity</string>
+    <string name="item1">help</string>
+    <string name="item2">settings</string>
+    <string name="help">Help</string>
+    <string name="labelhelp">Help label</string>
+
+
+</resources>
